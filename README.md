@@ -4,4 +4,4 @@ This repository contains code for DAAD post-graduate course in corpus linguistic
 
 Session00Introduction: opens in Colab environment - [https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/session00introduction.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/session00introduction.ipynb)
 
-Session01python2linguisticResearch: 
+Session01python2linguisticResearch: [https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session01python2linguisticResearch.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session01python2linguisticResearch.ipynb)
