@@ -10,3 +10,4 @@ Session02ShakespeareRhyme: [https://colab.research.google.com/github/iued-uni-he
 
 Session03TopicModelling: [https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session03TopicModelling.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session03TopicModelling.ipynb)
 
+Session04WordVectors: [https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session04WordVectors.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session04WordVectors.ipynb)
