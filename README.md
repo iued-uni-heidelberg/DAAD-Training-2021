@@ -8,4 +8,5 @@ Session01python2linguisticResearch: [https://colab.research.google.com/github/iu
 
 Session02ShakespeareRhyme: [https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session02ShakespeareRhyme.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session02ShakespeareRhyme.ipynb)
 
+Session03TopicModelling: [https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session03TopicModelling.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session03TopicModelling.ipynb)
 
