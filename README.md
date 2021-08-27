@@ -2,16 +2,23 @@
 
 This repository contains code for DAAD post-graduate course in corpus linguistics and computational linguistics methods for humanities research.
 
-Corpora and linguistic resources are on HeiBox: [https://heibox.uni-heidelberg.de/d/d65daff8341e467c82b1/](https://heibox.uni-heidelberg.de/d/d65daff8341e467c82b1/)
+## Corpora and linguistic resources 
+- on HeiBox: [https://heibox.uni-heidelberg.de/d/d65daff8341e467c82b1/](https://heibox.uni-heidelberg.de/d/d65daff8341e467c82b1/)
 
-Session00Introduction: opens in Colab environment - [https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/session00introduction.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/session00introduction.ipynb)
+## Session00Introduction: 
+- opens in Colab environment - [https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/session00introduction.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/session00introduction.ipynb)
 
-Additional material: self-study and reference: Hacking for humanities / Python: [https://github.com/michaelgfalk/hacking-the-humanities](https://github.com/michaelgfalk/hacking-the-humanities)
+## Additional material: 
+- Michael Falk's course: self-study and reference - Hacking for humanities / Python: [https://github.com/michaelgfalk/hacking-the-humanities](https://github.com/michaelgfalk/hacking-the-humanities)
 
-Session01python2linguisticResearch: [https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session01python2linguisticResearch.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session01python2linguisticResearch.ipynb)
+## Session01python2linguisticResearch: 
+- [https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session01python2linguisticResearch.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session01python2linguisticResearch.ipynb)
 
-Session02ShakespeareRhyme: [https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session02ShakespeareRhyme.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session02ShakespeareRhyme.ipynb)
+## Session02ShakespeareRhyme: 
+- [https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session02ShakespeareRhyme.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session02ShakespeareRhyme.ipynb)
 
-Session03TopicModelling: [https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session03TopicModelling.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session03TopicModelling.ipynb)
+## Session03TopicModelling: 
+- [https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session03TopicModelling.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session03TopicModelling.ipynb)
 
-Session04WordVectors: [https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session04WordVectors.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session04WordVectors.ipynb)
+## Session04WordVectors: 
+- [https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session04WordVectors.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session04WordVectors.ipynb)
