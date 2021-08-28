@@ -17,6 +17,9 @@ This repository contains code for DAAD post-graduate course in corpus linguistic
 ## Session02ShakespeareRhyme: 
 - [https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session02ShakespeareRhyme.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session02ShakespeareRhyme.ipynb)
 
+## Session00ML-Introduction-MF:
+- [https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/session00MLbasics_MF.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/session00MLbasics_MF.ipynb)
+
 ## Session03TopicModelling: 
 - [https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session03TopicModelling.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session03TopicModelling.ipynb)
 
