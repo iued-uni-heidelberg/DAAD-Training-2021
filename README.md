@@ -11,13 +11,13 @@ This repository contains code for DAAD post-graduate course in corpus linguistic
 ## Additional material: 
 - Michael Falk's course: self-study and reference - Hacking for humanities / Python: [https://github.com/michaelgfalk/hacking-the-humanities](https://github.com/michaelgfalk/hacking-the-humanities)
 
-## Session01python2linguisticResearch: 
+## Session01python4linguisticResearch: 
 - [https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session01python2linguisticResearch.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session01python2linguisticResearch.ipynb)
 
 ## Session02ShakespeareRhyme: 
 - [https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session02ShakespeareRhyme.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session02ShakespeareRhyme.ipynb)
 
-## Session00ML-Introduction-MF:
+## Session00ML-Introduction-ML:
 - [https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/session00MLbasics_MF.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/session00MLbasics_MF.ipynb)
 
 ## Session03TopicModelling: 
