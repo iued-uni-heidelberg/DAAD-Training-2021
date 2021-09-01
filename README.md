@@ -14,6 +14,9 @@ This repository contains code for DAAD post-graduate course in corpus linguistic
 ## Session01python4linguisticResearch: 
 - [https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session01python2linguisticResearch.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session01python2linguisticResearch.ipynb)
 
+## Excersise: Terminology Extraction -- Terminologieextraktion:
+- [https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Terminologieextraktion.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Terminologieextraktion.ipynb)
+
 ## Session02ShakespeareRhyme: 
 - [https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session02ShakespeareRhyme.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session02ShakespeareRhyme.ipynb)
 
