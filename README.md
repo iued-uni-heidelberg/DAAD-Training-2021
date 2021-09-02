@@ -28,3 +28,15 @@ This repository contains code for DAAD post-graduate course in corpus linguistic
 
 ## Session04WordVectors: 
 - [https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session04WordVectors.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session04WordVectors.ipynb)
+
+
+# Day 4
+## Homework: creating a frequency dictionary of multiword expressions
+- Task: modify this notebook to generate a dictionary of multoword expressions [https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/session00introduction_homework.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/session00introduction_homework.ipynb)
+- Solution: []()
+
+
+- Taks: modify the terminology extraction script to select sub-strings (shorter multoword expressions, e.g., of length 2) within the term. (This task can be conceptualised as collecting multiword expressions from term strings). Jupyter notebook []()
+- Solution: []()
+
+
