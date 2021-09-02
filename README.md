@@ -32,11 +32,11 @@ This repository contains code for DAAD post-graduate course in corpus linguistic
 
 # Day 4
 ## Homework: creating a frequency dictionary of multiword expressions
-- Task: modify this notebook to generate a dictionary of multoword expressions [https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/session00introduction_homework.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/session00introduction_homework.ipynb)
+- **Task: modify this notebook to generate a dictionary of multoword expressions** [https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/session00introduction_homework.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/session00introduction_homework.ipynb)
 - Solution: [https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/session00introduction_homework_solution.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/session00introduction_homework_solution.ipynb)
 
 
-- Taks: modify the terminology extraction script to select sub-strings (shorter multoword expressions, e.g., of length 2) within the term. (This task can be conceptualised as collecting multiword expressions from term strings). Jupyter notebook [https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Terminologieextraktion.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Terminologieextraktion.ipynb)
+- **Taks: modify the terminology extraction script to select sub-strings (shorter multoword expressions, e.g., of length 2) within the term**. (This task can be conceptualised as collecting multiword expressions from term strings). Jupyter notebook [https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Terminologieextraktion.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Terminologieextraktion.ipynb)
 - Solution: [https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Terminologieextraktion_MWEs.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Terminologieextraktion_MWEs.ipynb)
 
 
