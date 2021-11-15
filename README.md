@@ -14,6 +14,9 @@ This repository contains code for DAAD post-graduate course in corpus linguistic
 ## Session01python4linguisticResearch: 
 - [https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session01python2linguisticResearch.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Session01python2linguisticResearch.ipynb)
 
+## Session01a Morphological analysis
+- [https://colab.research.google.com/github/iued-uni-heidelberg/compling2021/blob/main/compLingProject101MorphologicalAnalysisV01.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/compling2021/blob/main/compLingProject101MorphologicalAnalysisV01.ipynb)
+
 ## Excersise: Terminology Extraction -- Terminologieextraktion:
 - [https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Terminologieextraktion.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/DAAD-Training-2021/blob/main/Terminologieextraktion.ipynb)
 
