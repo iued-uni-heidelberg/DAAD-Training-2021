@@ -2,14 +2,18 @@
 
 This repository contains code for DAAD post-graduate course in corpus linguistics and computational linguistics methods for humanities research.
 
-## Processing resources for DAAD projects
+# Processing resources for DAAD projects
 
-### Morphological analysis: DE, EN, HY, KA
+## Morphological analysis: DE, EN, HY, KA
 - opens in Colab: TreeTagger and other resources under development [https://github.com/iued-uni-heidelberg/DAAD-Training-2021/blob/main/compLingProject102MorphologicalAnalysisV02.ipynb](https://github.com/iued-uni-heidelberg/DAAD-Training-2021/blob/main/compLingProject102MorphologicalAnalysisV02.ipynb)
 
-
-### Alignment - hunalign: sentence alignment
+## Alignment - hunalign: sentence alignment
 - Colab notebook: [https://github.com/iued-uni-heidelberg/DAAD-Training-2021/blob/main/compLingProject103SentenceAlignmentHunalignV02.ipynb](https://github.com/iued-uni-heidelberg/DAAD-Training-2021/blob/main/compLingProject103SentenceAlignmentHunalignV02.ipynb)
+
+## Downloading a corpus (json files into a single text file)
+- Open in Google Colab - Jupyter notebook [https://colab.research.google.com/github/iued-uni-heidelberg/cord19/blob/main/cord19download2text.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/cord19/blob/main/cord19download2text.ipynb)
+
+You can also split the file into several text files, each containing the necessary number of text and/or filter the corpus by a certain keyword, e.g., 'covid'
 
 ## Corpora and linguistic resources 
 - on HeiBox: [https://heibox.uni-heidelberg.de/d/d65daff8341e467c82b1/](https://heibox.uni-heidelberg.de/d/d65daff8341e467c82b1/)
