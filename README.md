@@ -8,6 +8,9 @@ This repository contains code for DAAD post-graduate course in corpus linguistic
 - opens in Colab: TreeTagger and other resources under development [https://github.com/iued-uni-heidelberg/DAAD-Training-2021/blob/main/compLingProject102MorphologicalAnalysisV02.ipynb](https://github.com/iued-uni-heidelberg/DAAD-Training-2021/blob/main/compLingProject102MorphologicalAnalysisV02.ipynb)
 
 
+### Alignment - hunalign: sentence alignment
+- Colab notebook: [https://github.com/iued-uni-heidelberg/DAAD-Training-2021/blob/main/compLingProject103SentenceAlignmentHunalignV02.ipynb](https://github.com/iued-uni-heidelberg/DAAD-Training-2021/blob/main/compLingProject103SentenceAlignmentHunalignV02.ipynb)
+
 ## Corpora and linguistic resources 
 - on HeiBox: [https://heibox.uni-heidelberg.de/d/d65daff8341e467c82b1/](https://heibox.uni-heidelberg.de/d/d65daff8341e467c82b1/)
 
