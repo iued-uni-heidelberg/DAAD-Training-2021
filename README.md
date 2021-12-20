@@ -12,8 +12,9 @@ This repository contains code for DAAD post-graduate course in corpus linguistic
 - Colab notebook: Hunalign only: [https://github.com/iued-uni-heidelberg/DAAD-Training-2021/blob/main/compLingProject103SentenceAlignmentHunalignV02.ipynb](https://github.com/iued-uni-heidelberg/DAAD-Training-2021/blob/main/compLingProject103SentenceAlignmentHunalignV02.ipynb)
 
 
-## Downloading a corpus (json files into a single text file)
-- Open in Google Colab - Jupyter notebook [https://colab.research.google.com/github/iued-uni-heidelberg/cord19/blob/main/cord19download2text.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/cord19/blob/main/cord19download2text.ipynb)
+## Downloading a corpus 
+- corpus download and cleanup - Google Colab - Jupyter notebook [https://github.com/iued-uni-heidelberg/DAAD-Training-2021/blob/main/compLingProject110CorpusCollectCleanV01.ipynb](https://github.com/iued-uni-heidelberg/DAAD-Training-2021/blob/main/compLingProject110CorpusCollectCleanV01.ipynb)
+- json files into a single text file: Google Colab - Jupyter notebook [https://colab.research.google.com/github/iued-uni-heidelberg/cord19/blob/main/cord19download2text.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/cord19/blob/main/cord19download2text.ipynb)
 
 You can also split the file into several text files, each containing the necessary number of text and/or filter the corpus by a certain keyword, e.g., 'covid'
 
