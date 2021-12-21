@@ -7,16 +7,15 @@ This repository contains code for DAAD post-graduate course in corpus linguistic
 ## Morphological analysis: DE, EN, HY, KA
 - opens in Colab: TreeTagger and other resources under development [https://github.com/iued-uni-heidelberg/DAAD-Training-2021/blob/main/compLingProject102MorphologicalAnalysisV02.ipynb](https://github.com/iued-uni-heidelberg/DAAD-Training-2021/blob/main/compLingProject102MorphologicalAnalysisV02.ipynb)
 
-## Alignment - hunalign: sentence alignment
-- Colab notebook: alignment and converting tsv to tmx [https://github.com/iued-uni-heidelberg/DAAD-Training-2021/blob/main/compLingProject104SentenceAlignmentHunalignV04.ipynb](https://github.com/iued-uni-heidelberg/DAAD-Training-2021/blob/main/compLingProject104SentenceAlignmentHunalignV04.ipynb)
-- Colab notebook: Hunalign only: [https://github.com/iued-uni-heidelberg/DAAD-Training-2021/blob/main/compLingProject103SentenceAlignmentHunalignV02.ipynb](https://github.com/iued-uni-heidelberg/DAAD-Training-2021/blob/main/compLingProject103SentenceAlignmentHunalignV02.ipynb)
-
-
 ## Downloading a corpus 
 - corpus download and cleanup - Google Colab - Jupyter notebook [https://github.com/iued-uni-heidelberg/DAAD-Training-2021/blob/main/compLingProject110CorpusCollectCleanV01.ipynb](https://github.com/iued-uni-heidelberg/DAAD-Training-2021/blob/main/compLingProject110CorpusCollectCleanV01.ipynb)
 - json files into a single text file: Google Colab - Jupyter notebook [https://colab.research.google.com/github/iued-uni-heidelberg/cord19/blob/main/cord19download2text.ipynb](https://colab.research.google.com/github/iued-uni-heidelberg/cord19/blob/main/cord19download2text.ipynb)
 
 You can also split the file into several text files, each containing the necessary number of text and/or filter the corpus by a certain keyword, e.g., 'covid'
+
+## Alignment - hunalign: sentence alignment
+- Colab notebook: alignment and converting tsv to tmx [https://github.com/iued-uni-heidelberg/DAAD-Training-2021/blob/main/compLingProject104SentenceAlignmentHunalignV04.ipynb](https://github.com/iued-uni-heidelberg/DAAD-Training-2021/blob/main/compLingProject104SentenceAlignmentHunalignV04.ipynb)
+- Colab notebook: Hunalign only: [https://github.com/iued-uni-heidelberg/DAAD-Training-2021/blob/main/compLingProject103SentenceAlignmentHunalignV02.ipynb](https://github.com/iued-uni-heidelberg/DAAD-Training-2021/blob/main/compLingProject103SentenceAlignmentHunalignV02.ipynb)
 
 ## Corpora and linguistic resources 
 - on HeiBox: [https://heibox.uni-heidelberg.de/d/d65daff8341e467c82b1/](https://heibox.uni-heidelberg.de/d/d65daff8341e467c82b1/)
